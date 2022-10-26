@@ -1,6 +1,3 @@
-# Databehandling-Edin-Smlatic
-DataBehandling kurs på ITHS.
-
 # Databehandling-AI22
 
 This is a course with focus of learning concepts in data analysis. All lecture codes and exercises can be found in the course [Github repo][ghr].
