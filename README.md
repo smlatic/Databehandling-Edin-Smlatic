@@ -4,8 +4,9 @@ This is a course with focus of learning concepts in data analysis. All lecture c
 
 [ghr]: https://github.com/kokchun/Databehandling-AI22
 
-- [Class schedule](https://github.com/kokchun/Databehandling-AI22/blob/main/Schedule_Databehandling_AI22.md)
-- [Resources](https://github.com/kokchun/Databehandling-AI22/tree/main/Resources)
+
+For this course I did a basic [Dashboard](https://olympic.onrender.com/) with plotly and deployed it using render.
+And some exploration of covid datasets in Sweden located in lab folder.
 
 ---
 
